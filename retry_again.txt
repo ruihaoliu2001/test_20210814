@@ -1,4 +1,4 @@
-Name: 
-Age:
-Major:
-Sex:
+Name:ray 
+Age:20
+Major:physics
+Sex:male
