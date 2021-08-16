@@ -1,4 +1,4 @@
-Name:ray 
+Name:raymond 
 Age:20
 Major:physics
 Sex:male
