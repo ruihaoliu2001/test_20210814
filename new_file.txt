@@ -1,4 +1,4 @@
-name
-major
+name：Ruihao Liu
+major: Computer Science
 sxsx
 fwrgww
